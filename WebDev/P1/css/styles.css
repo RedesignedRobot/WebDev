@@ -1,0 +1,17 @@
+body {
+  background-color: lavender;
+}
+hr {
+  border-style: none;
+  border-top: 5px dotted lightgreen;
+  height: 1px;
+  width: 5%;
+}
+
+h1 {
+  color: lightsalmon;
+}
+
+h3 {
+  color: lightsalmon;
+}

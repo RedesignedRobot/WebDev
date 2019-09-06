@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+.nv {
+  background-color: red;
+}
+
+.nv:hover {
+  background-color: gold;
+}
+
+.v {
+  background-color: green;
+}
+
+.c {
+  border-radius: 100%;
+}
+
+#heading {
+  color: lightskyblue;
+}
