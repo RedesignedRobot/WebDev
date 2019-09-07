@@ -1,14 +1,41 @@
-.tc {
-  background-color: #e4f9f5;
+body {
+  text-align: center;
+  font-family: "Merriweather", serif;
 }
 
-.sq {
-  height: 200px;
-  width: 200px;
+h1 {
+  font-family: "Sacramento", cursive;
 }
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.tc {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
 .mc {
-  background-color: red;
+
 }
 .bc {
-  background-color: blue;
+
+}
+
+.c1 {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.c2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
