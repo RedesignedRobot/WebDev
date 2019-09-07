@@ -39,3 +39,7 @@ h3 {
   left: 300px;
   bottom: 300px;
 }
+
+.round-img {
+  border-radius: 100%;
+}
